@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Younghost1
+- 👋 Hi, I’m @Emmanuel Mensah
 - 👀 I’m interested in creating new projects with the help of this community.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning HTML and Java
 - 💞️ I’m looking forward to open collaborations 
 - 📫 How to reach me mannyom98@gmail.com
 - 
