@@ -23,7 +23,6 @@
 
 ## Connect with Me
 [<img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/emmanuelmensah)
-[<img align="left" alt="Email" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/mail.svg" />](mailto:mannyom98@gmail.com)
 [<img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/Younghost111)
 
 <br />
