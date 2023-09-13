@@ -21,16 +21,6 @@
 ## Open to Collaborations
 - I'm always open to collaborating on exciting projects! If you have any ideas or would like to work together, feel free to reach out to me.
 
-## Connect with Me
-[<img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />](https://www.linkedin.com/in/emmanuelmensah)
-[<img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/Younghost111)
-
-<br />
-
-## GitHub Stats
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Younghost1&show_icons=true&theme=radical&hide_border=true)](https://github.com/Younghost1)
-
-
 
 <!-- Additional sections -->
 
@@ -41,8 +31,7 @@
 3. 🚧 Working on improving my Python language.
 <!--END_SECTION:activity-->
 
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younghost1)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Younghost1))
+
 
 
 
